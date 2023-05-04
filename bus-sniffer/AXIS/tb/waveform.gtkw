@@ -1,0 +1,99 @@
+[*]
+[*] GTKWave Analyzer v3.3.100 (w)1999-2019 BSI
+[*] Thu May 04 12:59:25 2023
+[*]
+[dumpfile] "C:\Users\simon\Downloads\P9\ghdl-axi-sim\axi-vhdl-templates\bus-sniffer\AXIS\tb2\wave.vcd"
+[dumpfile_mtime] "Thu May 04 12:58:17 2023"
+[dumpfile_size] 29000
+[savefile] "C:\Users\simon\Downloads\P9\ghdl-axi-sim\axi-vhdl-templates\bus-sniffer\AXIS\tb2\waveform.gtkw"
+[timestart] 0
+[size] 3378 1417
+[pos] -321 -321
+*-26.000000 238500000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] tb_axis.
+[sst_width] 224
+[signals_width] 214
+[sst_expanded] 1
+[sst_vpaned_height] 440
+@24
+[color] 5
+tb_axis.clk_count[7:0]
+@28
+[color] 3
+tb_axis.clk
+[color] 3
+tb_axis.rst_n
+tb_axis.axi_converter_inst.s_axi_awvalid
+tb_axis.axi_converter_inst.s_axi_awready
+tb_axis.axi_converter_inst.s_axi_awburst[1:0]
+@22
+tb_axis.axi_converter_inst.s_axi_awlen[7:0]
+@28
+tb_axis.axi_converter_inst.s_axi_awsize[2:0]
+tb_axis.axi_converter_inst.s_axi_awid[2:0]
+[color] 2
+tb_axis.axi_converter_inst.s_axi_wvalid
+[color] 2
+tb_axis.axi_converter_inst.s_axi_wready
+@24
+[color] 2
+tb_axis.axi_converter_inst.s_axi_wdata[7:0]
+@28
+[color] 2
+tb_axis.axi_converter_inst.s_axi_wlast
+[color] 2
+tb_axis.axi_converter_inst.s_axi_wstrb[0]
+[color] 3
+tb_axis.axi_converter_inst.s_axi_bvalid
+[color] 3
+tb_axis.axi_converter_inst.s_axi_bready
+[color] 3
+tb_axis.axi_converter_inst.s_axi_bresp[1:0]
+[color] 3
+tb_axis.axi_converter_inst.s_axi_bid[2:0]
+tb_axis.axi_converter_inst.m_axis_tvalid
+@24
+tb_axis.axi_converter_inst.m_axis_tready
+tb_axis.axi_converter_inst.m_axis_tdata[7:0]
+@28
+tb_axis.axi_converter_inst.m_axis_tlast
+tb_axis.axi_converter_inst.debug_state[1:0]
+tb_axis.axi_converter_inst.bresp_pending
+@24
+tb_axis.outstanding_xfers[7:0]
+@28
+tb_axis.split_inst.axis_aclk
+tb_axis.split_inst.axis_aresetn
+@22
+tb_axis.split_inst.axis_tdata[7:0]
+@28
+tb_axis.split_inst.axis_tlast
+tb_axis.split_inst.axis_tready
+tb_axis.split_inst.axis_tstrb[0]
+tb_axis.split_inst.axis_tvalid
+@22
+tb_axis.split_inst.m00_axis_tdata[7:0]
+@28
+tb_axis.split_inst.m00_axis_tlast
+tb_axis.split_inst.m00_axis_tready
+tb_axis.split_inst.m00_axis_tstrb[0]
+tb_axis.split_inst.m00_axis_tvalid
+@22
+tb_axis.split_inst.m01_axis_tdata[7:0]
+@28
+tb_axis.split_inst.m01_axis_tlast
+tb_axis.split_inst.m01_axis_tready
+tb_axis.split_inst.m01_axis_tstrb[0]
+tb_axis.split_inst.m01_axis_tvalid
+tb_axis.split_inst.opt_tready
+@22
+tb_axis.split_inst.s00_axis_tdata[7:0]
+@28
+tb_axis.split_inst.s00_axis_tlast
+@29
+tb_axis.split_inst.s00_axis_tready
+@28
+tb_axis.split_inst.s00_axis_tstrb[0]
+tb_axis.split_inst.s00_axis_tvalid
+[pattern_trace] 1
+[pattern_trace] 0
